@@ -1,5 +1,6 @@
 # VK_gifts
 A Webapp that uses the GIPHY API to display cute GIFs of your choosing.
+
 Задача: разработать интерфейс поиска и выбора gif изображений, встроенный в поле ввода. Запрос должен начинаться с комбинации /gif. Можно использовать любые библиотеки
 
 Пожалуйста, ознакомьтесь с готовым веб-сайтом на Beget - [link here](http://selenak.beget.tech).
