@@ -2,7 +2,7 @@
 A Webapp that uses the GIPHY API to display cute GIFs of your choosing.
 Задача: разработать интерфейс поиска и выбора gif изображений, встроенный в поле ввода. Запрос должен начинаться с комбинации /gif. Можно использовать любые библиотеки
 
-Пожалуйста, ознакомьтесь с готовым веб-сайтом на Beget (здесь).
+Пожалуйста, ознакомьтесь с готовым веб-сайтом на Beget (здесь)![](http://selenak.beget.tech).
 
 # Примеры работы сайта:
 При наведении на значок поиска высвечивается подсказка.
@@ -17,7 +17,7 @@ A Webapp that uses the GIPHY API to display cute GIFs of your choosing.
 
 С помощью ползунка можно выбирать количество картинок
 
-![Image alt](https://github.com/sonikom/VK_gifts/blob/main/images/sc3.png)
+![Image alt](https://github.com/sonikom/VK_gifts/blob/main/images/sc3.PNG)
 
 
 При наведении на gif-изображение оно увеличивается.
