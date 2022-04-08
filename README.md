@@ -1,5 +1,5 @@
 # VK_gifs
-A Webapp that uses the GIPHY API to display cute GIFs of your choosing.
+A Website that uses the GIPHY API to display different GIFs of your choosing.
 
 Задача: разработать интерфейс поиска и выбора gif изображений, встроенный в поле ввода. Запрос должен начинаться с комбинации /gif. Можно использовать любые библиотеки
 
